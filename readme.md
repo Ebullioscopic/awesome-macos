@@ -539,6 +539,7 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 
 ### Menubar Applications
 
+- [Atoll](https://github.com/Ebullioscopic/Atoll) - Feature packed DynamicIsland for your Mac. ![Open Source][oss]
 - [Aldente](https://github.com/davidwernhart/AlDente) - macOS tool to limit maximum charging percentage. ![Open Source][oss]
 - [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704?mt=12) - The most awesome keep-awake app ever created for macOS.
 - [Apple Juice](https://github.com/raphaelhanneken/apple-juice) - Advanced battery gauge for macOS. ![Open Source][oss]
